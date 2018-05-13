@@ -55,6 +55,7 @@ Integrated State Machine
 
 ![Alt text](https://i.imgur.com/HPmfsIf.png "Ladders")
 
+# Consider buying me a coffee if you like my work (click the image)
 [![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
 
 
